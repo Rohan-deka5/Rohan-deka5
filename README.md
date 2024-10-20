@@ -27,20 +27,18 @@ Here are some of the technologies and tools I work with:
 
 ## 🌐 Connect with Me
 
-- [Instagram](https://www.instagram.com/_d_rohan._/).
-- [Twitter](https://x.com/Sinclair__Vorte).
 
 <div align="center">
-  <a href="mailto:pradeepto.home@gmail.com">
+  <a href="https://www.instagram.com/_d_rohan._/).">
+    <img src="https://helios-i.mashable.com/imagery/articles/044e8x59C0ICkJYCjzRv7Yt/hero-image.fill.size_1248x702.v1650318899.png">
+  </a>
+  <a href="mailto:tarunbaishya345@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-CCCCCC?style=for-the-badge&logo=Gmail&logoColor=black" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/pradeepto-pal-64083629b/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/707503002440957963">
+  <a href="https://discord.com/users/549862441492807681">
       <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://x.com/KyogrePerseus">
+  <a href="https://x.com/Sinclair__Vorte">
       <img src="https://img.shields.io/badge/X-171717?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
   </a>
 </div>
