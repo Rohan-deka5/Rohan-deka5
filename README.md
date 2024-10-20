@@ -12,7 +12,7 @@ I'm a passionate beginner about Computer sciene and technology with a love for G
 - 🌱 I’m learning Python , Digital Logic and a little bit of Web Technology.
 - 👯 I’m looking to collaborate on Web projects which generally improvises someones needs.
 - 💬 Ask me about topics like History,Computer stuff , I am really passionate for those.
-- 📫 How to reach me: **[My Email - tarunbaishya345@gmail.com ]**
+- 📫 How to reach me: **My Email - tarunbaishya345@gmail.com**
 - ⚡ Fun fact: I love playing video games , they are a part of my life , Fav game is Elder Scrolls V : Skyrim.
 
 ## 🛠️ Technologies & Tools
