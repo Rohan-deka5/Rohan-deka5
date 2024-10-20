@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm [Rohan Deka]!
+# 👋 Hello, I'm Rohan Deka.
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/181446197?s=400&u=8f48147b590be740eb00e2fdbe9743a86bfc55dd&v=4)
 
