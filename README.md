@@ -29,9 +29,7 @@ Here are some of the technologies and tools I work with:
 
 
 <div align="center">
-  <a href="https://www.instagram.com/_d_rohan._/).">
-    <img src="https://helios-i.mashable.com/imagery/articles/044e8x59C0ICkJYCjzRv7Yt/hero-image.fill.size_1248x702.v1650318899.png">
-  </a>
+  
   <a href="mailto:tarunbaishya345@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-CCCCCC?style=for-the-badge&logo=Gmail&logoColor=black" alt="Gmail"/>
   </a>
