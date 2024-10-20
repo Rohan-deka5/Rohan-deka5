@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-deka5&show_icons=true&theme=radical)
-![My Convoy chats](ttps://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-deka5&layout=donut&theme=radical)
+![My Convoy chats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-deka5&layout=donut&theme=radical)
 <div align="center">
 <h2 align="center" class="section-heading">
  <table align="center" width="100%" height="100%" >
