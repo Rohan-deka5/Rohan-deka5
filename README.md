@@ -24,6 +24,15 @@ Here are some of the technologies and tools I work with:
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-deka5&show_icons=true&theme=radical)
+![My Convoy chats](ttps://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-deka5&layout=donut&theme=radical)
+<div align="center">
+<h2 align="center" class="section-heading">
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan-deka5&theme=github_dark" alt="Rohan-deka5's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-deka5&theme=merko" alt="Rohan-deka5's Contribution Streak"/></td>
+    </tr>
+ </table>
 
 ## 🌐 Connect with Me
 
